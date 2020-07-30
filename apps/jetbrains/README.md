@@ -1,3 +1,3 @@
-# One Dark for JetBrains
+# Atom One for JetBrains
 
-![Monokai Pro](screenshots/one-dark.png)
+![Atom One Dark](screenshots/atom-one-dark-small.png)
