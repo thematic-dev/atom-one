@@ -1,0 +1,18 @@
+name: One Dark
+template: dark
+colors:
+  red_1: e06c75
+  orange_1: d19a66
+  orange_2: e6c07b
+  green: 98c379
+  cyan: 56b6c2
+  purple: c678dd
+  base0: 1d1f23
+  base1: 21252b
+  base2: 282c34
+  base3: 2c313c
+  base4: 333a42
+  base5: 404859
+  base6: 495162
+  base7: 9da5b4
+  base8: e6e6e6

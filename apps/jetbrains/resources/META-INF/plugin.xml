@@ -1,0 +1,24 @@
+<idea-plugin>
+  <id>one-dark</id>
+  <name>One Dark Theme</name>
+  <version>0.1</version>
+  <vendor url="https://thematic.dev">Thematic</vendor>
+
+  <description>
+    <![CDATA[
+      The One Dark theme from Atom, adapted for JetBrains by <a href="https://thematic.dev">Thematic</a>.
+      <br/><br/>
+      Contribute with GitHub: <a href="https://github.com/thematic-dev/one-dark">https://github.com/thematic-dev/one-dark</a>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/thematic-dev/one-dark/master/apps/jetbrains/screenshots/one-dark-small.png" border="0" width="320">
+    ]]>
+  </description>
+
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="246a798b-a742-42c0-a587-43f3aceb11bb" path="/one-dark.theme.json"/>
+  </extensions>
+</idea-plugin>
