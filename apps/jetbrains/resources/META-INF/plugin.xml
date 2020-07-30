@@ -19,6 +19,6 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="246a798b-a742-42c0-a587-43f3aceb11bb" path="/one-dark.theme.json"/>
+    <themeProvider id="246a798b-a742-42c0-a587-43f3aceb11bb" path="/atom-one-dark.theme.json"/>
   </extensions>
 </idea-plugin>
