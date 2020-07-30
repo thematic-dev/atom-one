@@ -1,16 +1,16 @@
 <idea-plugin>
-  <id>one-dark</id>
-  <name>One Dark Theme</name>
+  <id>atom-one</id>
+  <name>Atom One Theme</name>
   <version>0.1</version>
   <vendor url="https://thematic.dev">Thematic</vendor>
 
   <description>
     <![CDATA[
-      The One Dark theme from Atom, adapted for JetBrains by <a href="https://thematic.dev">Thematic</a>.
+      The Atom One theme, adapted for JetBrains by <a href="https://thematic.dev">Thematic</a>.
       <br/><br/>
-      Contribute with GitHub: <a href="https://github.com/thematic-dev/one-dark">https://github.com/thematic-dev/one-dark</a>
+      Contribute with GitHub: <a href="https://github.com/thematic-dev/atom-one">https://github.com/thematic-dev/atom-one</a>
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/thematic-dev/one-dark/master/apps/jetbrains/screenshots/one-dark-small.png" border="0" width="320">
+      <img src="https://raw.githubusercontent.com/thematic-dev/atom-one/master/apps/jetbrains/screenshots/atom-one-dark-small.png" border="0" width="320">
     ]]>
   </description>
 

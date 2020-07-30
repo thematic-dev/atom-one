@@ -1,3 +1,3 @@
-# 0.8
+# 0.1
 
-Added Monokai Pro
+Added Atom One

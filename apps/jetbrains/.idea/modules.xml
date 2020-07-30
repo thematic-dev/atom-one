@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/one-dark-jetbrains.iml" filepath="$PROJECT_DIR$/one-dark-jetbrains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atom-one-jetbrains.iml" filepath="$PROJECT_DIR$/atom-one-jetbrains.iml" />
     </modules>
   </component>
 </project>
