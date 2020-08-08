@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>atom-one</id>
   <name>Atom One Theme</name>
-  <version>0.1</version>
+  <version>0.2</version>
   <vendor url="https://thematic.dev">Thematic</vendor>
 
   <description>
