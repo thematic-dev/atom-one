@@ -1,14 +1,12 @@
 # Atom One
 
-The Atom One theme, adapted by Thematic.
+The Atom One theme, adapted by Subtheme.
 
 Supported apps:
-- [JetBrains](https://github.com/thematic-dev/atom-one/tree/master/apps/jetbrains)
+- [JetBrains](https://github.com/subtheme-pro/atom-one/tree/master/apps/jetbrains)
 
-To build the theme, use [Thematic](https://github.com/thematic-dev/thematic):
+To build the theme, use [Subtheme](https://github.com/subtheme-pro/subtheme):
 
 ```shell script
-$ python thematic.py build .
+$ python subtheme.py build <path>
 ```
-
-To learn more, read the Thematic [docs](https://thematic.dev/documentation.html). (Note: Thematic is still a work in progress.)
