@@ -1,0 +1,14 @@
+name: Atom One Light
+template: light
+colors:
+  red_1: e06c75
+  orange_1: d19a66
+  orange_2: e6c07b
+  green: 98c379
+  cyan: 56b6c2
+  purple: c678dd
+  blue: 5770e0
+  base03: fafafa
+  base02: eaeaeb
+  base01: dbdbdc
+  none: 00000000

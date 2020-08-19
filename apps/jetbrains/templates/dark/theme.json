@@ -90,7 +90,6 @@
         "nonEditableBackground": "{{colors.base2}}"
       },
       "background": "{{colors.base3}}",
-      "disabledBackground": "{{colors.base1}}",
       "disabledForeground": "{{colors.base6}}",
       "foreground": "{{colors.base9}}",
       "modifiedItemForeground": "{{colors.base9}}",
@@ -174,7 +173,7 @@
       "underlinedTabForeground": "{{colors.base9}}"
     },
     "FileColor": {
-      "base9": "00000000"
+      "Yellow": "00000000"
     },
     "FormattedTextField": {
       "background": "{{colors.base3}}",

@@ -1,16 +1,18 @@
 <idea-plugin>
   <id>atom-one</id>
   <name>Atom One Theme</name>
-  <version>0.2</version>
+  <version>0.3</version>
   <vendor url="https://subtheme.pro">Subtheme</vendor>
 
   <description>
     <![CDATA[
-      The Atom One theme, adapted for JetBrains by <a href="https://subtheme.pro">Subtheme</a>.
+      The Atom One theme, adapted for JetBrains by <a href="https://subtheme.pro">Subtheme</a>. Both dark and light themes are included.
       <br/><br/>
       Contribute with GitHub: <a href="https://github.com/subtheme-pro/atom-one">https://github.com/subtheme-pro/atom-one</a>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/subtheme-pro/atom-one/master/apps/jetbrains/screenshots/atom-one-dark-small.png" border="0" width="320">
+      <br/>
+      <img src="https://raw.githubusercontent.com/subtheme-pro/atom-one/master/apps/jetbrains/screenshots/atom-one-light-small.png" border="0" width="320">
     ]]>
   </description>
 
@@ -20,5 +22,6 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="246a798b-a742-42c0-a587-43f3aceb11bb" path="/atom-one-dark.theme.json"/>
+    <themeProvider id="60306159-29af-468e-9c4d-d7d312c47a99" path="/atom-one-light.theme.json"/>
   </extensions>
 </idea-plugin>
