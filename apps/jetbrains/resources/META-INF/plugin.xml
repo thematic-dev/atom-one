@@ -2,7 +2,7 @@
   <id>atom-one</id>
   <name>Atom One Theme</name>
   <version>0.3</version>
-  <vendor url="https://subtheme.pro">Subtheme</vendor>
+  <vendor url="https://subtheme.pro">Thematic</vendor>
 
   <description>
     <![CDATA[
@@ -11,8 +11,6 @@
       Contribute with GitHub: <a href="https://github.com/subtheme-pro/atom-one">https://github.com/subtheme-pro/atom-one</a>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/subtheme-pro/atom-one/master/apps/jetbrains/screenshots/atom-one-dark-small.png" border="0" width="320">
-      <br/>
-      <img src="https://raw.githubusercontent.com/subtheme-pro/atom-one/master/apps/jetbrains/screenshots/atom-one-light-small.png" border="0" width="320">
     ]]>
   </description>
 
