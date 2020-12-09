@@ -5,8 +5,9 @@ The Atom One theme, adapted by Subtheme.
 Supported apps:
 - [JetBrains](https://github.com/subtheme-pro/atom-one/tree/master/apps/jetbrains)
 
-To build, use [subtheme](https://github.com/subtheme-pro/subtheme):
+To build, use the `build.py` script:
 
 ```shell script
-$ python subtheme.py build <path>
+$ pip install -r requirements.txt
+$ python build.py
 ```
