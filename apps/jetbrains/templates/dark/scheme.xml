@@ -448,7 +448,6 @@
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="{{colors.cyan}}" />
-                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -2597,7 +2596,7 @@
         </option>
         <option name="NOT_TOP_FRAME_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="939393" />
+                <option name="BACKGROUND" value="{{colors.base4}}" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">

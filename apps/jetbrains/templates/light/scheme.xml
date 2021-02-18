@@ -101,13 +101,11 @@
       <value>
         <option name="FOREGROUND" value="67d17" deuteranopia="1948a6" protanopia="1948a6"/>
         <option name="BACKGROUND" value="ffcccc" deuteranopia="ffdcbf" protanopia="ffdcbf"/>
-        <option name="FONT_TYPE" deuteranopia="bold" protanopia="bold"/>
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="33b3" deuteranopia="428C" protanopia="428C"/>
-        <option name="FONT_TYPE" deuteranopia="bold" protanopia="bold"/>
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -130,7 +128,6 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="1750eb" deuteranopia="3777E6" protanopia="3777E6"/>
-        <option name="FONT_TYPE" deuteranopia="bold" protanopia="bold"/>
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -148,7 +145,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="67d17" deuteranopia="6A84DB" protanopia="6A84DB"/>
-        <option name="FONT_TYPE" deuteranopia="bold" protanopia="bold"/>
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -382,7 +378,6 @@
         <option name="FOREGROUND" value="f50000" deuteranopia="d95716" protanopia="d95716"/>
         <option name="EFFECT_COLOR" deuteranopia="f2b09d" protanopia="f2b09d"/>
         <option name="EFFECT_TYPE" deuteranopia="4" protanopia="4"/>
-        <option name="FONT_TYPE" deuteranopia="bold" protanopia="bold"/>
       </value>
     </option>
     <option name="YAML_ANCHOR">

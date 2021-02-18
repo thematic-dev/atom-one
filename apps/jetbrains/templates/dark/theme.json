@@ -241,7 +241,7 @@
       "selectionForeground": "{{colors.base9}}"
     },
     "MenuBar": {
-      "borderColor": "{{colors.base2}}",
+      "borderColor": "{{colors.base3}}",
       "disabledBackground": "{{colors.base2}}",
       "disabledForeground": "{{colors.base6}}",
       "foreground": "{{colors.base9}}",
@@ -314,6 +314,7 @@
       "background": "{{colors.base2}}",
       "disabledForeground": "{{colors.base8}}",
       "eapTagBackground": "{{colors.base6}}",
+      "hoverBackground": "{{colors.base3}}",
       "lightSelectionBackground": "{{colors.base3}}",
       "tagForeground": "{{colors.base9}}",
       "tagBackground": "{{colors.base6}}",
