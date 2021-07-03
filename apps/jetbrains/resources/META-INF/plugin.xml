@@ -2,12 +2,16 @@
   <id>atom-one</id>
   <name>Atom One Theme</name>
   <vendor url="https://subtheme.pro">Subtheme</vendor>
-  <version>1.0</version>
+  <version>1.1</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+    <h3>1.1</h3>
+    <ul>
+      <li>Fixed counter foreground color</li>
+    </ul>
     <h3>1.0</h3>
     <ul>
       <li>Fixed application border color in Linux</li>
@@ -19,7 +23,7 @@
   <description><![CDATA[
     The Atom One theme, adapted for JetBrains by <a href="https://subtheme.pro">Subtheme</a>. Both dark and light themes are included.
     <br/><br/>
-    Contribute with GitHub: <a href="https://github.com/subtheme-pro/atom-one">https://github.com/subtheme-pro/atom-one</a>
+    Contribute with <a href="https://github.com/subtheme-pro/atom-one">GitHub</a>. Screenshots taken with <a href="https://plugins.jetbrains.com/plugin/10044-atom-material-icons">Atom Material Icons</a> and <a href="https://www.typography.com/fonts/operator/styles">Operator Mono</a>.
     <br/><br/>
     <img src="https://raw.githubusercontent.com/subtheme-pro/atom-one/master/apps/jetbrains/screenshots/atom-one-dark-small.png" border="0" width="360">
     <br/>

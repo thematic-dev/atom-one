@@ -118,7 +118,7 @@
     },
     "Counter": {
       "background": "{{colors.base9}}",
-      "foreground": "{{colors.base9}}"
+      "foreground": "{{colors.base0}}"
     },
     "Debugger": {
       "Variables": {
